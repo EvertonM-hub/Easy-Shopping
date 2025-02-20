@@ -126,11 +126,14 @@ header{
     width: 100px;
     position: static;
     padding: 40px;
+    margin-top: 100px;
 }
 
 img{
     position: static;
     max-width: 1500%;
+    margin-left: 50px;
+
    
 }
 
@@ -144,6 +147,8 @@ h1{
     width: auto;
     margin: 58px, 50px, 0, 100px;
     text-align: auto;
+    width: max-content;
+    margin-left: 120px;
   
 
 }
@@ -161,6 +166,7 @@ p{
 buttom{
     margin: auto, 0, auto;
     display: block;
+    margin-left: 150px;
 
 }
 
